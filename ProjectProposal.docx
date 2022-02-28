@@ -1,0 +1,27 @@
+Group 3
+Team Members: David Albasini, Jacob Bohrer, John Le, Micheal Maldonado, Paula Sirisumpund
+
+Topic: Stock Market Prediction – make predictions against future market data
+	
+Problem Statement: Using computer-based algorithm and AI model for financial market trading. This model will forecast investment’s return rate with as much as accuracy as possible.
+Methods:
+	Long Short-Term Memory (LSTM): deep learning artificial recurrent neural network (RNN) architecture
+	Stocker : Python tool for stock exploration
+Hidden Markov Model (HMM)
+Wavelet Neural Network (WNN)
+New Approach:
+
+Experimental Setup:
+	The data will be split into training, testing, and validation data. We probably will use Kaggle to search for the dataset. Initially we wanted to join the Ubiquant Market Prediction on Kaggle but realized that we do not have enough time so we just mirror a similar project instead of joining the competition itself.  The dataset will include the necessary information of a stock, specifically on how it performs in the past. The table thus will have date, open, high, low, last, close, total trade quantity, turnover for 200-day MA (200-day Moving Average is for long-term investment). We’re probably gonna turn dataset into a dataframe using Pandas library. Then, we will build the model, test it and give away accuracy. The majority of the current AI based platforms are using LSTM, which is what we probably follow. However, we might try other methods to compare the accuracy level. With LSTM as a neural network in its essence, we will tune the learning rate, the optimizers, activation function, and regularization.
+
+
+References:
+Stock Market Prediction | Machine Learning for Stock Market Prediction (analyticsvidhya.com)
+Predicting Stock Prices Using Machine Learning - neptune.ai
+Stock Price Prediction - Machine Learning Project in Python - DataFlair (data-flair.training)
+Stock Prediction in Python. Make (and lose) fake fortunes while… | by Will Koehrsen | Towards Data Science
+Build a Stock Trend Prediction Web App in Python | GeeksforGeeks - YouTube
+Short-term stock market price trend prediction using a comprehensive deep learning system | Journal of Big Data | Full Text (springeropen.com)
+
+
+
