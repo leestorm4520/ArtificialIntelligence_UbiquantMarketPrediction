@@ -1,8 +1,12 @@
 UTSA - Spring 2022
+
 CS3793 - Artificial Intelligence
+
 Group 3 - Stock Market Prediction
+
 Team Member: 
 David Albasini, John Le, Michael Maldonado, Paula Sirisumpund
+
 
 
 
@@ -16,6 +20,7 @@ LSTM model would have the highest accuracy since its neural network is excellent
 
 
 
+
 Link to Source Code:
 https://github.com/leestorm4520/ArtificialIntelligence_UbiquantMarketPrediction
 
@@ -24,6 +29,7 @@ https://www.youtube.com/watch?v=d_LPzOBB_Rk
 
 Link to Genial.io Presentation:
 https://view.genial.ly/626af9d2f417c30018157ac8/presentation-stock-market-prediction
+
 
 
 References:
